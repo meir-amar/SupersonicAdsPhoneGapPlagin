@@ -23,7 +23,7 @@ SupersonicAdsPlugin.js
  showOfferWall: function (userid, success, fail)
  
  callbacks:
- -------------------------
+ ------------------------- 
     // function()
     onBrandConnectDidInitWithCampaignInfo: null,
     // function()
