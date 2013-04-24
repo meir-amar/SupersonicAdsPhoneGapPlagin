@@ -30,7 +30,7 @@ SupersonicAdsPlugin.js
     onBrandConnectDidFailInitWithError: null,
     // function()
     onBrandConnectWindowWillOpen: null,
-    // function()
+    // function() 
     onBrandConnectWindowDidClose: null,
     // function()
     onBrandConnectDidFinishAd: null,
